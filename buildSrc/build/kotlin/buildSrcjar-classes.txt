@@ -1,0 +1,1 @@
+D:\Project\AndroidDesignPatterns\buildSrc\build\classes\kotlin\main\ConfigData.class;D:\Project\AndroidDesignPatterns\buildSrc\build\classes\kotlin\main\Dependencies.class
