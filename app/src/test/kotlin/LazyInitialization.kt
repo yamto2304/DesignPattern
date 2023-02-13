@@ -36,7 +36,7 @@ class WindowTest {
 
         val window2 = Window2()
         //window2.box chưa được khởi tạo do chưa gọi đến show mesge
-        println(window2.box)// -> fail TC
+//        println(window2.box)// -> fail TC
         window2.showMessage("This is window 2")
         Assertions.assertThat(window2.box).isNotNull
     }
